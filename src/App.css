@@ -1,0 +1,82 @@
+body, div, header, h1, ul, li{
+    margin: 0;
+    padding: 0;
+}
+.Titulo{
+    color: white;
+    text-align: center;
+    margin-top: 6%;
+}
+.item{
+    list-style: none;
+}
+body{
+    background-color: #8D8D8D;
+}
+.Addbutton{
+    background-color: rgb(5, 5, 255);
+    border: 0; 
+    height: 30px;  
+    color: white;
+    margin-top: 10%;
+    border-radius: 5px;
+    font-size:large;
+    text-align: center;
+}
+.Escrever{
+    background-color: #D9D9D9;
+    border: none;
+    height: 20px;
+    border-radius: 5%;
+    text-align: center;
+}
+.input-Escrever{
+    display: block;
+    margin-top: 4%;
+    text-align: center;
+}
+.butadd{
+    margin: 0 auto;
+    display: block;
+    width: 30%;
+    text-align: center;
+}
+.caixa-tarefas{
+    padding: 3%;
+    margin-left: 2%;
+    text-align: center;
+    margin-top: 5%;
+    height: 60%;
+    border-radius: 5px;
+    width: 90%;
+    background-color: #D9D9D9 ;
+}
+.but-status{
+    border: none;
+    background-color: #D9D9D9;
+}
+.feito{
+    margin-top: 3%;
+    background-color: rgb(255, 0, 0);
+    border: none;
+    list-style: none;
+    border-radius: 5px;
+
+}
+.Nfeito{
+    margin-top: 3%;
+    background-color: rgb(9, 255, 0);
+    border: none;
+    list-style: none;
+    border-radius: 5px;
+
+}
+.but-feito{
+    background-color: rgb(255, 0, 0);
+    border: none;
+}
+.but-nfeito{
+    background-color: rgb(9, 255, 0);
+    border: none;
+}
+
