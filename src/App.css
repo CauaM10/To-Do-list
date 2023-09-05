@@ -79,4 +79,9 @@ body{
     background-color: rgb(9, 255, 0);
     border: none;
 }
-
+.ultima-caixa{
+    height: 50px;
+    width:100%;
+    background-color: #8D8D8D ;
+   
+}
